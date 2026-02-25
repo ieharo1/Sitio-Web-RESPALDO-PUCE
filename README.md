@@ -1,12 +1,21 @@
-# 🌐 Sitio Web Respaldo PUCE
+# 🌐 PUCE AYUDA - Sitio Web de Apoyo Estudiantil
 
-Copia de respaldo del sitio web PUCE desarrollado por **Isaac Esteban Haro Torres**.
+Plataforma de ayuda y apoyo emocional para estudiantes de la **Pontificia Universidad Católica del Ecuador (PUCE)**.
 
 ---
 
 ## 📝 Descripción
 
-Respaldo del sitio web institucional de PUCE.
+Sitio web dedicado a brindar apoyo a estudiantes universitarios que enfrentan situaciones difíciles como:
+
+- **Depresión** - Apoyo emocional para superar sentimientos de tristeza y pérdida
+- **Cyber Bullying** - Contra el acoso digital y amenazas en línea
+- **Enfermedades Mentales** - Recursos para transtornos de ansiedad y otros problemas
+- **Discriminación** - Apoyo ante situaciones de trato injusto
+- **Bullying** - Acoso escolar y universitario
+- **Ayuda Social** - Comunidad de apoyo entre estudiantes
+
+La página también incluye enlaces útiles para estudiantes (intranet, correo, biblioteca, etc.) y información de contacto para recibir ayuda.
 
 ---
 
